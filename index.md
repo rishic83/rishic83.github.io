@@ -1,1 +1,1 @@
-## <a href="IBPlanner.html/"> IB Planner (Android Application) </a>
+## <a href="IBPlanner.md/"> IB Planner (Android Application) </a>
