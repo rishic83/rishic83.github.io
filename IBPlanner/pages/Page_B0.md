@@ -38,7 +38,7 @@ couldn’t, since I had a Windows computer.
 
 ### Product Structure:
 
-![Product Structure](/images/IBPlanner_B_Structure.png)
+![Product Structure](/images/B0_Structure.png)
 
 ### Data Structures:
 
@@ -68,5 +68,5 @@ is stored as string)
 integer)
 **Date testDate**: Holds the test date (selectable from a DatePicker object)
 
-Proceed to [UX Design](/IBPlannerB1)
+Proceed to [UX Design](/Page_B1)
 
