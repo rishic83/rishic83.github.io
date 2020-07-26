@@ -4,7 +4,7 @@
 
 ### Description of scenario:
 
-As a student pursuing the IB Diploma, a high school curriculum notorious for its heavy workload, my friend - Angad Bhalla - faces a hectic schedule. He often struggles to manage his time effectively and keep up with all his work. Since he doesn’t have a good memory (as claimed by himself!), he can’t keep track of all his assignments and their due dates. As a result, he isn't able to meet his academic expectations, but he doesn’t know what to specifically focus on to improve his performance.
+As a student pursuing the IB Diploma, a high school curriculum notorious for its heavy workload, my friend - Angad Bhalla - faces a hectic schedule. (I will be referring to him as the **"client"** for the rest of the documentation). He often struggles to manage his time effectively and keep up with all his work. Since he doesn’t have a good memory (as claimed by himself!), he can’t keep track of all his assignments and their due dates. As a result, he isn't able to meet his academic expectations, but he doesn’t know what to specifically focus on to improve his performance.
 
 Currently, Angad makes use of a physical planner, where he notes down his work, but usually forgets to look at it. He also uses a wall calendar, but he doesn’t wish to create a schedule for each day (**INSERT IMAGE**).
 
