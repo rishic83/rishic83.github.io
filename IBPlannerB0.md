@@ -68,5 +68,5 @@ is stored as string)
 integer)
 **Date testDate**: Holds the test date (selectable from a DatePicker object)
 
-Proceed to [UX Screens](/IBPlannerB1)
+Proceed to [UX Design](/IBPlannerB1)
 
