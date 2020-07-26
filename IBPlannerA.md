@@ -47,4 +47,6 @@ performance has been declining.
 ‘Suggestions’ tab to the task list.
 15. Ability for user to delete these suggestions.
 
+#### Proceed to [Product Design](/IBPlannerB)
+
 
