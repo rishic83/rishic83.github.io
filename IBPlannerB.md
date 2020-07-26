@@ -1,6 +1,6 @@
 # IB Planner (Android Application)
 
-## Problem Analysis
+## Product Design
 
 ### Use of Android Studio:
 
@@ -39,4 +39,34 @@ couldn’t, since I had a Windows computer.
 ### Product Structure:
 
 ![Product Structure](/images/IBPlanner_B_Structure.png)
+
+### Data Structures:
+
+1. Task Object
+
+**String description**: Holds the description for the task (editable String)
+**String subject**: Holds the subject of the task (choice between the user-defined subjects,
+which is stored as string)
+**String duration**: Holds the duration of the task (choice between incrementing options of 30
+minutes)
+**Date deadline**: Holds the date of the deadline (selectable from a DatePicker object)
+**Date scheduledDate**: Holds the scheduled date for the task to be completed on (assigned by the Task Scheduling Engine)
+**int startSlotNumber**: Holds the starting slot number for the task (the working times for each
+day are divided into 30 minute increments, and each increment is assigned a slot; the first free
+slot which has enough slots afterwards for the task to be completed is assigned by the Task
+Scheduling Engine)
+**int numberOfSlots**: Holds the number of slots required by each task (assigned by Task
+Scheduling Engine; dependent on duration)
+
+2. Test Object
+
+**String description**: Holds the description of the test (editable String)
+**String subject**: Holds the subject of the test (choice between the user-defined subjects, which
+is stored as string)
+**int score1**: Holds the score achieved by user on the test (editable String, converted to integer)
+**int score2**: Holds the maximum score possible on specified test (editable String, converted to
+integer)
+**Date testDate**: Holds the test date (selectable from a DatePicker object)
+
+Proceed to [UX Screens](/IBPlannerB1)
 
