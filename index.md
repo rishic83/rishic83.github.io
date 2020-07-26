@@ -1,1 +1,1 @@
-## [IB Planner (Android Application)](/IBPlanner)
+## [IB Planner (Android Application)](/IBPlannerA)
