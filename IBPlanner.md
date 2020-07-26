@@ -1,3 +1,0 @@
-## IB Planner (Android Application)
-
-
