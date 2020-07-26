@@ -1,1 +1,1 @@
-## <a href="https://rishic83.github.io/IBPlanner.html/"> IB Planner (Android Application) </a>
+## <a href="IBPlanner.html/"> IB Planner (Android Application) </a>
