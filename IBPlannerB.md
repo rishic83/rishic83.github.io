@@ -34,5 +34,9 @@ I tried to think of alternatives to making an Android application as well:
 * I thought of making a computer-based solution but that would be less convenient and
 portable because the client couldn’t easily access it anywhere. Furthermore, he used a Macbook which ran OS X, for which I didn’t know how to write code, and probably
 couldn’t, since I had a Windows computer.
-* 
+* I also thought of having a web-application which could be accessed by all devices but the client would require constant internet connection for that, which would be more cumbersome than having a local solution.
+
+### Product Structure:
+
+![Product Structure](/images/IBPlanner_B_Structure.png)
 
