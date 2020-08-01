@@ -1,6 +1,6 @@
 ## Projects
 
-<h3> <a href="../projects/ib-planner/page-a.md">  IB Planner (Android Application) </a> </h3>
+<h3> <a href="../projects/ib-planner/page-a">  IB Planner (Android Application) </a> </h3>
 
 <p align = "center">
   <img width="200" height="200" src="/images/ib-planner/cover.png">
