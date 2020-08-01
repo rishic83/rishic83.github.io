@@ -8,5 +8,5 @@
 <p align = "center"> hi </p>
           
 
-<p align = "center"> <h3> <a href="/ib-planner/Page_A"> IB Planner (Android Application) </a> </h3> </p>
-<p align = "center"> An Android application for students that automatically schedules your tasks, tracks your grades and provides study suggestions. </p>
+<p align = "center"> <a href="/ib-planner/Page_A"> IB Planner (Android Application) </a>
+  An Android application for students that automatically schedules your tasks, tracks your grades and provides study suggestions. </p>
