@@ -8,4 +8,5 @@ Originally from Bangalore, India, I'm now a student at Columbia University study
 I've been coding since 2014, and this website is for showcasing my product management portfolio. 
 My interests lie in the intersection of media, technology and business. 
 
+Check out my [Projects](/projects)
 
