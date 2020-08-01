@@ -7,7 +7,7 @@
 
 
 <p align = "center">
-  ### [IB Planner (Android Application)](/IBPlanner/pages/Page_A)
+  <h3> [IB Planner (Android Application)](/IBPlanner/pages/Page_A) </h3>
   #### An Android application for students that automatically schedules your tasks, tracks your grades and provides study suggestions. 
 </p>
   
